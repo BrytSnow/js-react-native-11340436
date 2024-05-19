@@ -19,3 +19,4 @@ function formatArrayStrings(stringArray, numberArray) {
     }
   });
 }
+export { processArray, formatArrayStrings};
